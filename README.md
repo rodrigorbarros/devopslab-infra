@@ -1,2 +1,2 @@
 # devopslab-infra
-Terraform - Google Cloud
+Terraform - Google Cloud v2
