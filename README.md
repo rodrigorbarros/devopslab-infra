@@ -1,2 +1,2 @@
 # devopslab-infra
-Terraform - Google Cloud v2
+Terraform - Google Cloud - Entrega final
