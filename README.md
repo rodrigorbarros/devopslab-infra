@@ -1,5 +1,5 @@
 # devopslab-infra
 
-Terraform - Google Cloud - Entrega final V5
+Terraform - Google Cloud - Entrega final V6
 
 
